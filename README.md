@@ -3,15 +3,15 @@
 By Dale Kent
 ------------
 
-The Byzantine Empire, often called the Eastern Roman Empire or simply Byzantium, existed from 330 to 1453 CE. With its capital founded at Constantinople by Constantine I (r. 306-337 CE), the Empire varied in size over the centuries, at one time or another, possessing territories located in Italy, Greece, the Balkans, Levant, Asia Minor, and North Africa. A Christian state with Greek as the official language, the Byzantines developed their own political systems, religious practices, art and architecture, which, although significantly influenced by the Greco-Roman cultural tradition, were distinct and not merely a continuation of ancient Rome. The Byzantine Empire was the longest-lasting medieval power, and its influence continues today, especially in the religion, art, architecture, and law of many Western states, Eastern and Central Europe, and Russia.
+The **Byzantine Empire**, often called the Eastern Roman Empire or simply Byzantium, existed from 330 to 1453 CE. With its capital founded at Constantinople by Constantine I (r. 306-337 CE), the Empire varied in size over the centuries, at one time or another, possessing territories located in Italy, Greece, the Balkans, Levant, Asia Minor, and North Africa. A Christian state with Greek as the official language, the Byzantines developed their own political systems, religious practices, art and architecture, which, although significantly influenced by the Greco-Roman cultural tradition, were distinct and not merely a continuation of ancient Rome. The Byzantine Empire was the longest-lasting medieval power, and its influence continues today, especially in the religion, art, architecture, and law of many Western states, Eastern and Central Europe, and Russia.
 
 The beginnings of the Byzantine Empire lie in the decision of Roman emperor Constantine I to relocate the capital of the Roman Empire from Rome to Byzantium on 11 May 330 CE. The popular name Constantinople or ‘City of Constantine’ soon replaced the emperor’s own official choice of ‘New Rome’. The new capital had an excellent natural harbour on the Golden Horn inlet and, straddled on the border between Europe and Asia, could control the passage of ships through the Bosphorus from the Aegean to the Black Sea, linking lucrative trade between west and east. A great chain stretched across the Golden Horn’s entrance, and the construction of the massive Theodosian Walls between 410 and 413 CE meant that the city was able to withstand time and again concerted attacks from both sea and land. Over the centuries, as more spectacular buildings were added, the cosmopolitan city became one of the finest of any epoch and certainly the richest, most lavish and most important Christian city in the world.
 
 Installation and use:
 ---------------------
 
-1. Download the files and put the "Byzantine Empire" directory in \Users\###\Documents\My Games\OldWorld\Mods\
-2. Go to "Mods" in the main menu and enable "Byzantine Empire" and click "Save". Then "Play with Mods" and select Constantine for a new game.
+1. Download the files and put the **Byzantine Empire** directory in \Users\\###\Documents\My Games\OldWorld\Mods\ (Or \OldWorld\Test\Mods\ if you use Test branch).
+2. Go to **Mods** in the main menu and enable **Byzantine Empire** and click **Save**. Then **Play with Mods** and select Constantine for a new game.
 3. Play as Byzantine.
 
 About the Mod:
