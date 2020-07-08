@@ -16,6 +16,7 @@ Features:
 - Unique leader Constantine, founder and initial leader of Byzantine.
 - Unique art assets specifically for the Byzantine Empire.
 - Four new families based on real powerful Byzantine families.
+- New Shrines with uniquely Byzantium beliefs.
 - Byzantium character names and a blending of Roman and Greek character portraits.
 - Byzantium city list.
 - Comitatenses and Palatini unique units, Byzantium melee infantry units.
