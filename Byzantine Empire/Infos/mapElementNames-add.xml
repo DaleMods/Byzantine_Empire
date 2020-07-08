@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Entry>
+		<zType>MAP_ELEMENT_NAMES_FOR_BYZANTINE</zType>
+		<azVolcanoNames>
+			<zValue>Ciomadul</zValue>
+			<zValue>Adatepe</zValue>
+			<zValue>Mount Ararat</zValue>
+			<zValue>Mount Suphan</zValue>
+			<zValue>Monte Tendurek</zValue>
+			<zValue>Monte Nemrut</zValue>
+		</azVolcanoNames>
+		<azMountainRangeNames>
+			<zValue>Pindus Mountains</zValue>
+			<zValue>Rhodope Mountains</zValue>
+			<zValue>Sinjar Mountains</zValue>
+			<zValue>Taurus Mountains</zValue>
+			<zValue>Kackar Mountains</zValue>
+			<zValue>Cilo-Sat Mountain Range</zValue>
+		</azMountainRangeNames>
+		<azPeakNames>
+			<zValue>Mount Pentelicus</zValue>
+			<zValue>Parnon</zValue>
+			<zValue>Mount Olympus</zValue>
+			<zValue>Mount Helicon</zValue>
+			<zValue>Tomaros</zValue>
+			<zValue>Mount Paiko</zValue>
+			<zValue>Falakro</zValue>
+			<zValue>Jabal Zambar</zValue>
+			<zValue>Mount Alfaf</zValue>
+			<zValue>Gir-e Kumar</zValue>
+			<zValue>Mount Abdulaziz</zValue>
+			<zValue>Jabal Abu Rujmayn</zValue>
+			<zValue>Zawiya Mountain</zValue>
+			<zValue>Jabal Musa</zValue>
+			<zValue>Jabal ar Ruwaq</zValue>
+		</azPeakNames>
+		<azRiverNames>
+			<zValue>Haliacmon River</zValue>
+			<zValue>Evros River</zValue>
+			<zValue>Struma River</zValue>
+			<zValue>Vardar River</zValue>
+			<zValue>Achelous River</zValue>
+			<zValue>Pineios River</zValue>
+			<zValue>Gediz River</zValue>
+			<zValue>Euphrates River</zValue>
+			<zValue>Tigris River</zValue>
+			<zValue>Great Zab River</zValue>
+			<zValue>Little Zab River</zValue>
+			<zValue>Nahr Al Uzaym</zValue>
+			<zValue>Wadi Ath Tharthar</zValue>
+		</azRiverNames>
+		<azForestNames>
+			<zValue>Dadia Forest</zValue>
+			<zValue>Foloi Oak Forest</zValue>
+			<zValue>Skiritida Forest</zValue>
+			<zValue>Forest of Aianteio</zValue>
+			<zValue>Chaintous Forest</zValue>
+			<zValue>Bassit Pine Forest</zValue>
+			<zValue>Baer Oak Forest</zValue>
+			<zValue>Turkish Pine Forest</zValue>
+			<zValue>Akkar Forest</zValue>
+		</azForestNames>
+		<azHeathNames>
+			<zValue>Peloponnesian Maquis</zValue>
+			<zValue>Vai Palm Forest</zValue>
+			<zValue>Kurd-Dagh Woodlands</zValue>
+			<zValue>Hermel Forest</zValue>
+			<zValue>Dennieh Scrubland</zValue>
+		</azHeathNames>
+		<azPlainNames>
+			<zValue>Plain1</zValue>
+			<zValue>Plain2</zValue>
+			<zValue>Plain3</zValue>
+			<zValue>Plain4</zValue>
+			<zValue>Plain5</zValue>
+		</azPlainNames>
+		<azDesertNames>
+			<zValue>Deliblato Sands</zValue>
+			<zValue>Syrian Desert</zValue>
+			<zValue>Karakum Desert</zValue>
+			<zValue>Arabian Desert</zValue>
+		</azDesertNames>
+		<azPlateauNames>
+			<zValue>Plateau1</zValue>
+			<zValue>Plateau2</zValue>
+			<zValue>Plateau3</zValue>
+			<zValue>Plateau4</zValue>
+			<zValue>Plateau5</zValue>
+		</azPlateauNames>
+		<azValleyNames>
+			<zValue>Tebi Valley</zValue>
+			<zValue>Munzur Valley</zValue>
+		</azValleyNames>
+		<azOceanNames>
+			<zValue>Indian Ocean</zValue>
+			<zValue>Atlantic Ocean</zValue>
+			<zValue>Pacific Ocean</zValue>
+			<zValue>Arctic Ocean</zValue>
+		</azOceanNames>
+		<azSeaNames>
+			<zValue>Aegean Sea</zValue>
+			<zValue>Myrtoan Sea</zValue>
+			<zValue>Sea of Crete</zValue>
+			<zValue>Ionian Sea</zValue>
+			<zValue>Black Sea</zValue>
+			<zValue>Mediterranean Sea</zValue>
+			<zValue>Red Sea</zValue>
+			<zValue>Caspian Sea</zValue>
+		</azSeaNames>
+		<azBayNames>
+			<zValue>Gulf of Corinth</zValue>
+			<zValue>Saronic Gulf</zValue>
+			<zValue>Gulf of Patras</zValue>
+			<zValue>North Euboean Gulf</zValue>
+			<zValue>Argolic Gulf</zValue>
+			<zValue>Pagasetic Gulf</zValue>
+			<zValue>Ambracian Gulf</zValue>
+			<zValue>Turkmenbashi Bay</zValue>
+			<zValue>Tahanroz'ka Gulf</zValue>
+			<zValue>Gulf of Aqaba</zValue>
+			<zValue>Gulf of Aden</zValue>
+		</azBayNames>
+		<azLakeNames>
+			<zValue>Limni Iliki</zValue>
+			<zValue>Limni Paralimni</zValue>
+			<zValue>Limni Trichonida</zValue>
+			<zValue>Lake Prespa</zValue>
+			<zValue>Limni Volvi</zValue>
+			<zValue>Limni Kerkini</zValue>
+			<zValue>Limni Pamvotida</zValue>
+			<zValue>Tharthar Lake</zValue>
+			<zValue>Habbaniyah Lake</zValue>
+			<zValue>Van Golu</zValue>
+			<zValue>Hazar Golu</zValue>
+			<zValue>Lake Hamrin</zValue>
+		</azLakeNames>
+		<azIslandNames>
+			<zValue>Crete</zValue>
+			<zValue>Rhodes</zValue>
+			<zValue>Andros Island</zValue>
+			<zValue>Sifnos Island</zValue>
+			<zValue>Euboea Island</zValue>
+			<zValue>Naxos Island</zValue>
+			<zValue>Skyros Island</zValue>
+			<zValue>Kythnos Island</zValue>
+			<zValue>Milos Island</zValue>
+			<zValue>Cyprus</zValue>
+			<zValue>Marmara Adasi</zValue>
+			<zValue>Lesvos Island</zValue>
+			<zValue>Kefken Island</zValue>
+			<zValue>Samos Island</zValue>
+			<zValue>Oreke Island</zValue>
+		</azIslandNames>
+	</Entry>
+</Root>

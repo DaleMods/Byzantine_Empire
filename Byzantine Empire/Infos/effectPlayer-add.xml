@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>EFFECTPLAYER_NATION_BYZANTINE</zType>
+		<Name>TEXT_EFFECTPLAYER_NATION_BYZANTINE</Name>
+		<SourceNation>NATION_BYZANTINE</SourceNation>
+		<EffectCity>EFFECTCITY_NATION_BYZANTINE</EffectCity>
+		<iFatigueLimitChange>1</iFatigueLimitChange>
+	</Entry>
+</Root>

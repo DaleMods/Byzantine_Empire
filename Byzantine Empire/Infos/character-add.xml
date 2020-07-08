@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>CHARACTER_CONSTANTINE</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_CONSTANTINE</FirstName>
+		<Nation>NATION_BYZANTINE</Nation>
+		<Portrait>CHARACTER_PORTRAIT_CONSTANTINE</Portrait>
+		<CharacterSelectPortrait>CHARACTER_SELECT_CONSTANTINE</CharacterSelectPortrait>
+		<iAge>34</iAge>
+		<aeTraits>
+			<zValue>TRAIT_BUILDER_ARCHETYPE</zValue>
+			<zValue>TRAIT_ELOQUENT</zValue>
+		</aeTraits>
+	</Entry>
+</Root>

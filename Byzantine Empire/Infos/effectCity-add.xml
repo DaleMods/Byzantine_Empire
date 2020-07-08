@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>EFFECTCITY_NATION_BYZANTINE</zType>
+		<Name>TEXT_EFFECTCITY_NATION_BYZANTINE</Name>
+		<SourceNation>NATION_BYZANTINE</SourceNation>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldModifier>
+	</Entry>
+</Root>

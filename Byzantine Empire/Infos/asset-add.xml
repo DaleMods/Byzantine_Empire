@@ -1,0 +1,35 @@
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<Entry>
+		<zType>ASSET_CITY_BYZANTINE_CAPITAL</zType>
+		<zAsset>Prefabs/Cities/Assyria/Assyria_Capital</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_BYZANTINE_URBAN</zType>
+		<zAsset>Prefabs/Cities/Assyria/Assyria_Urban_ClutterTransforms</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_BYZANTINE</zType>
+		<zAsset>DalesAssetBundle/CREST_NATION_BYZANTINE</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CONSTANTINE_PORTRAIT</zType>
+		<zAsset>DalesAssetBundle/BYZANTINE_LEADER_MALE_01_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_BYZANTINE_PORTRAIT_BACKGROUND</zType>
+		<zAsset>DalesAssetBundle/PORTRAIT_BACKGROUND_BYZANTINE</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_BYZANTINE_SELECT</zType>
+		<zAsset>DalesAssetBundle/CHARACTER_SELECT_CONSTANTINE</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_UNIT_COMITATENSES</zType>
+		<zAsset>Prefabs/Units/Hastatus</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_UNIT_PALATINI</zType>
+		<zAsset>Prefabs/Units/Legionary</zAsset>
+	</Entry>
+</Root>

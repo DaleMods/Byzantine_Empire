@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<Entry>
+		<zType>TEXT_FAMILY_CALOGERA</zType>
+		<English>Calogera~Calogerans~Calogerid</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_KANTAKOUZENOS</zType>
+		<English>Kantakouzenos~Kantakouzenarens~Kantakouzenid</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_PHOKAS</zType>
+		<English>Phokas~Phokasians~Phokasid</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_DOUKAS</zType>
+		<English>Doukas~Doukasians~Doukasid</English>
+	</Entry>
+</Root>

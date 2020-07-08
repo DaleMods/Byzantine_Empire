@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NESTORIA</zType>
+		<English>Shrine of Nestoria</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MONOPHYSITE</zType>
+		<English>Shrine of Monophysite</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_GNOSIS</zType>
+		<English>Shrine of Gnosis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_PAULICIA</zType>
+		<English>Shrine of Paulicia</English>
+	</Entry>
+</Root>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_FRIENDLY_BYZANTINE_OPTION_2</zType>
+		<English>Give her a personal tour in your carriage..</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_FRIENDLY_BYZANTINE_OPTION_1</zType>
+		<English>Grant her request for a tour.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_FRIENDLY_BYZANTINE_OPTION_0</zType>
+		<English>Politely, explain that you are too busy.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_FRIENDLY_BYZANTINE_DECLINE_OPTION_0</zType>
+		<English>Allow trading to commence in {CITY-2}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_FRIENDLY_BYZANTINE_DECLINE_OPTION_1</zType>
+		<English>Apologize. Next time, we will act the gracious host.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_FRIENDLY_BYZANTINE_ACCEPT_OPTION_3</zType>
+		<English>Accept both peace and a trade deal.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_FRIENDLY_BYZANTINE_ACCEPT_OPTION_2</zType>
+		<English>Accept the proposed peace.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_FRIENDLY_BYZANTINE_ACCEPT_OPTION_1</zType>
+		<English>Accept the terms of the trade deal.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_FRIENDLY_BYZANTINE_GUIDE_OPTION_4</zType>
+		<English>Agree to supply gold.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_FRIENDLY_BYZANTINE_GUIDE_OPTION_3</zType>
+		<English>Agree to supply food.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_FRIENDLY_BYZANTINE_GUIDE_OPTION_2</zType>
+		<English>Agree to supply wood.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_FRIENDLY_BYZANTINE_GUIDE_OPTION_1</zType>
+		<English>Agree to supply iron.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_FRIENDLY_BYZANTINE_DECLINE</zType>
+		<English>Politely Decline.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_FRIENDLY_BYZANTINE_ALLY_OPTION_0</zType>
+		<English>Forge an alliance with {PLAYER-0}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_PRIDEFUL_BYZANTINE_OPTION_1</zType>
+		<English>Beg for mercy and offer to pay tribute.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_NEIGHBORS_PRIDEFUL_BYZANTINE_OPTION_0</zType>
+		<English>If {PLAYER-0} wishes to test our resolve, so be it.</English>
+	</Entry>
+</Root>

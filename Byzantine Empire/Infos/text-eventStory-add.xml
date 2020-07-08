@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEIGHBORS_FRIENDLY_BYZANTINE</zType>
+		<English>Amid much fanfare, a member of the {PLAYER-0,1} Senate arrives at court. She requests a tour of the capital, complete with servants and armed escorts. 
+
+What shall we tell her?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEIGHBORS_FRIENDLY_BYZANTINE_DECLINE</zType>
+		<English>After we declined her request for a tour, the visiting senator from {PLAYER-0,0} made her own way through the capital. During this trip, some of your local merchants agreed to trade with the {PLAYER-0,2}. This is good for the city, but your inhospitality will be remembered. 
+
+How shall we greet this development?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEIGHBORS_FRIENDLY_BYZANTINE_ACCEPT</zType>
+		<English>Messengers from {PLAYER-0} arrive at court, bearing an offer of peace. They wish to establish a strong trade relationship with {PLAYER-1} as soon as possible.
+
+Are we ready for a partnership with {PLAYER-0}?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEIGHBORS_FRIENDLY_BYZANTINE_GUIDE</zType>
+		<English>The senator from {PLAYER-0,0} returns, seeking aid this time. "We face a serious threat from the bloodthirsty {BARBARIAN-2}. I greatly appreciated your attention and kindness on my previous visit. Will you help supply our soldiers in the coming conflict?"
+
+How shall we respond?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEIGHBORS_FRIENDLY_BYZANTINE_ALLY</zType>
+		<English>Diplomats from {PLAYER-0} arrive in court with a royal decree. Their people seek to become our political allies, entwining the fates of our two great civilizations. The visiting {PLAYER-0,2} wait expectantly with gifts in hand.
+
+What will be our answer?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEIGHBORS_PRIDEFUL_BYZANTINE</zType>
+		<English>An emissary arrives from {PLAYER-0,0}, unannounced. He brings a startling declaration: {PLAYER-0} declares war! 
+
+"Non ducor, duco!" he cries. Our scholars translate his words as, "We are not led, but lead!"
+
+All {PLAYER-1} awaits our response...</English>
+	</Entry>
+</Root>

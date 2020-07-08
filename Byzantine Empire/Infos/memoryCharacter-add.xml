@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>MEMORYCHARACTER_NEIGHBORS_BYZANTINE_TRUST</zType>
+		<zText>Your friendliness has earned our trust</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_FOREVER</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYCHARACTER_NEIGHBORS_BYZANTINE_VICTORY</zType>
+		<zText>You proved your strength!</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_LOW_FOREVER</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYCHARACTER_NEIGHBORS_BYZANTINE_DEFEAT</zType>
+		<zText>You kissed our ring in defeat</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_FOREVER</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYCHARACTER_NEIGHBORS_BYZANTINE_VENDETTA</zType>
+		<zText>Only one of our cultures will survive this war!</zText>
+		<iValue>-100</iValue>
+	</Entry>
+</Root>

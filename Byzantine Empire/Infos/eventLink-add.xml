@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>EVENTLINK_NEIGHBORS_FRIENDLY_BYZANTINE_DECLINE</zType>
+		<aeSubjectClasses>
+			<zValue>SUBJECTCLASS_PLAYER</zValue>
+			<zValue>SUBJECTCLASS_PLAYER</zValue>
+		</aeSubjectClasses>
+	</Entry>
+	<Entry>
+		<zType>EVENTLINK_NEIGHBORS_FRIENDLY_BYZANTINE_ACCEPT</zType>
+		<aeSubjectClasses>
+			<zValue>SUBJECTCLASS_PLAYER</zValue>
+			<zValue>SUBJECTCLASS_PLAYER</zValue>
+		</aeSubjectClasses>
+	</Entry>
+	<Entry>
+		<zType>EVENTLINK_NEIGHBORS_FRIENDLY_BYZANTINE_AID</zType>
+		<aeSubjectClasses>
+			<zValue>SUBJECTCLASS_PLAYER</zValue>
+			<zValue>SUBJECTCLASS_PLAYER</zValue>
+			<zValue>SUBJECTCLASS_BARBARIAN</zValue>
+		</aeSubjectClasses>
+	</Entry>
+	<Entry>
+		<zType>EVENTLINK_NEIGHBORS_FRIENDLY_BYZANTINE_GUIDE</zType>
+		<aeSubjectClasses>
+			<zValue>SUBJECTCLASS_PLAYER</zValue>
+			<zValue>SUBJECTCLASS_PLAYER</zValue>
+		</aeSubjectClasses>
+	</Entry>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType>FAMILY_CALOGERA</zType>
+		<Name>TEXT_FAMILY_CALOGERA</Name>
+		<NameFemale>TEXT_FAMILY_CALOGERA</NameFemale>
+		<iColorIndex>0</iColorIndex>
+		<Nation>NATION_BYZANTINE</Nation>
+		<FamilyClass>FAMILY_CLASS_CLERICS</FamilyClass>
+	</Entry>
+	<Entry>
+		<zType>FAMILY_KANTAKOUZENOS</zType>
+		<Name>TEXT_FAMILY_KANTAKOUZENOS</Name>
+		<NameFemale>TEXT_FAMILY_KANTAKOUZENOS</NameFemale>
+		<iColorIndex>1</iColorIndex>
+		<Nation>NATION_BYZANTINE</Nation>
+		<FamilyClass>FAMILY_CLASS_LANDOWNERS</FamilyClass>
+	</Entry>
+	<Entry>
+		<zType>FAMILY_PHOKAS</zType>
+		<Name>TEXT_FAMILY_PHOKAS</Name>
+		<NameFemale>TEXT_FAMILY_PHOKAS</NameFemale>
+		<iColorIndex>2</iColorIndex>
+		<Nation>NATION_BYZANTINE</Nation>
+		<FamilyClass>FAMILY_CLASS_CHAMPIONS</FamilyClass>
+	</Entry>
+	<Entry>
+		<zType>FAMILY_DOUKAS</zType>
+		<Name>TEXT_FAMILY_DOUKAS</Name>
+		<NameFemale>TEXT_FAMILY_DOUKAS</NameFemale>
+		<iColorIndex>3</iColorIndex>
+		<Nation>NATION_BYZANTINE</Nation>
+		<FamilyClass>FAMILY_CLASS_TRADERS</FamilyClass>
+	</Entry>
+</Root>

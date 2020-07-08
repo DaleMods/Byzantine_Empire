@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>COLOR_NATION_BYZANTINE</zType>
+		<zName>Byzantine</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#bd33a4</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BYZANTINE_TEXT</zType>
+		<zName>Byzantine Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#bd33a4</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BYZANTINE_FAMILY_01</zType>
+		<zName>Byzantine Family 1</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#d46b4b</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BYZANTINE_FAMILY_01_TEXT</zType>
+		<zName>Byzantine Family 1 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#d46b4b</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BYZANTINE_FAMILY_02</zType>
+		<zName>Byzantine Family 2</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#f9f3c1</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BYZANTINE_FAMILY_02_TEXT</zType>
+		<zName>Byzantine Family 2 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#f9f3c1</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BYZANTINE_FAMILY_03</zType>
+		<zName>Byzantine Family 3</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#8d663f</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BYZANTINE_FAMILY_03_TEXT</zType>
+		<zName>Byzantine Family 3 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#8d663f</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BYZANTINE_FAMILY_04</zType>
+		<zName>Byzantine Family 4</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#aaccff</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BYZANTINE_FAMILY_04_TEXT</zType>
+		<zName>Byzantine Family 4 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#aaccff</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BYZANTINE_FAMILY_05</zType>
+		<zName>Byzantine Family 5</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#c8ab37</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BYZANTINE_FAMILY_05_TEXT</zType>
+		<zName>Byzantine Family 5 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#c8ab37</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BYZANTINE_FAMILY_06</zType>
+		<zName>Byzantine Family 6</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#ffffff</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BYZANTINE_FAMILY_06_TEXT</zType>
+		<zName>Byzantine Family 6 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#ffffff</zHexValue>
+	</Entry>
+</Root>

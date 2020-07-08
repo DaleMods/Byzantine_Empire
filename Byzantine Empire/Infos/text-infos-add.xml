@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>TEXT_NATION_BYZANTINE_STORY</zType>
+		<English>      The Byzantine Empire, also referred to as the Eastern Roman Empire, or Byzantium, was the continuation of the Roman Empire in its eastern provinces during Late Antiquity and the Middle Ages, when its capital city was Constantinople (modern Istanbul, formerly Byzantium). It survived the fragmentation and fall of the Western Roman Empire in the 5th century AD and continued to exist for an additional thousand years until it fell to the Ottoman Empire in 1453.
+
+      During most of its existence, the empire was the most powerful economic, cultural, and military force in Europe.
+
+      I, Emperor Constantine, have traveled to the ancient city of Byzantium, to rebuild it in my image. A new Capital. A new Constantinople.
+		</English>
+	</Entry>
+  <Entry>
+    <zType>TEXT_GOAL_TWO_COMITATENSES</zType>
+    <English>Control Two Comitatenses</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GOAL_TWO_PALATINI</zType>
+    <English>Control Two Palatinis</English>
+  </Entry>
+</Root>
