@@ -20,11 +20,12 @@ About the Mod:
 Play as Constantine leading the Byzantine Empire. Constantine I the Great was the Roman Emperor who rebuilt the city of Byzantium in the Roman Eastern Empire and named it Constantinople in 330AD. His dynasty ruled over the Roman Eastern Empire until the fall of Rome in 476AD, and from then the Empire was regarded as first "New Rome" and then later Byzantine Empire after the ancient city name. Being a mix of both Roman and Greek cultures Byzantine rose to be the most powerful Empire in the World at the end of the 6th Century, but continuous wars with its neighbors, and rising powers in Persia, Arabia and Western Europe eventually led to the end of the Empire in 1453 when the Ottomans captured Constantinople.
 
 Features:
-- Unique leader Constantine, founder and initial leader of Byzantine.
+- Unique leader Constantine (Builder, Eloquent), founder and initial leader of Byzantine.
 - Unique art assets specifically for the Byzantine Empire.
-- Four new families based on real powerful Byzantine families.
-- New Shrines with uniquely Byzantium beliefs.
+- Byzantine Empire: +1 fatigue, [All Cities] +40% culture, +25% money.
+- Four new families based on real powerful Byzantine families: Calogera (Clerics), Kantakouzenos (Landowners), Phokas (Champions), Doukas (Traders).
+- New Shrines with uniquely Byzantium beliefs: Shrine of Nestoria (Civics/Culture), Shrine of Monophysite (Culture), Shrine of Gnosis (Science/Culture), Shrine of Paulicia (Military/Culture).
 - Byzantium character names and a blending of Roman and Greek character portraits.
 - Byzantium city list.
-- Comitatenses and Palatini unique units, Byzantium melee infantry units.
+- Comitatenses (Str 7) and Palatini (Str 10) unique units, Byzantium melee infantry units similar to Rome's units.
 - New goals and diplomatic events to integrate Byzantine into the game.
